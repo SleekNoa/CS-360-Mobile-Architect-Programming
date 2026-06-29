@@ -11,10 +11,6 @@ Several screens were necessary to support the needs of users, including a login 
 
 When designing the interface, I focused on keeping navigation simple and consistent across every screen. I used a bottom navigation bar to make switching between major sections easy, along with reusable layouts, consistent icons, and organized resource files. Separating strings, layouts, menus, and drawable resources also made the application easier to maintain while following Android development best practices.
 
-## Development Process
-
-Here's a version that better matches what you've described throughout the course and sounds a bit more polished while keeping your style:
-
 **Development Process**
 
 I approached development by first designing the user interface and overall layout before implementing the functionality behind each screen. Rather than trying to complete the entire application at once, I focused on developing one feature at a time. After each feature was working, I integrated it with the rest of the application using activities, adapters, and an SQLite database. As the project evolved, I also organized shared resources such as string files, layouts, and menus to make the code more modular and easier to maintain. Breaking the project into smaller, manageable pieces made debugging much easier, reduced complexity, and allowed me to focus on solving one problem at a time. This is a development strategy I plan to continue using in future software projects because it improves organization, maintainability, and overall code quality.
