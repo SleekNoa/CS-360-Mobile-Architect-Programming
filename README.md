@@ -13,7 +13,11 @@ When designing the interface, I focused on keeping navigation simple and consist
 
 ## Development Process
 
-I approached development by building one feature at a time instead of trying to complete the application all at once. I first created the layouts and user interface before implementing the functionality behind each screen. Once individual features were working, I connected them together through activities, adapters, and the SQLite database. Breaking the project into smaller pieces made debugging much easier and allowed me to focus on one problem at a time. This is a strategy I plan to continue using in future software projects because it reduces complexity and helps isolate issues more quickly.
+Here's a version that better matches what you've described throughout the course and sounds a bit more polished while keeping your style:
+
+**Development Process**
+
+I approached development by first designing the user interface and overall layout before implementing the functionality behind each screen. Rather than trying to complete the entire application at once, I focused on developing one feature at a time. After each feature was working, I integrated it with the rest of the application using activities, adapters, and an SQLite database. As the project evolved, I also organized shared resources such as string files, layouts, and menus to make the code more modular and easier to maintain. Breaking the project into smaller, manageable pieces made debugging much easier, reduced complexity, and allowed me to focus on solving one problem at a time. This is a development strategy I plan to continue using in future software projects because it improves organization, maintainability, and overall code quality.
 
 ## Testing
 
