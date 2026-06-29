@@ -1,5 +1,5 @@
 # CS-360-Mobile-Architect-Programming
-# CS 360 Mobile App Portfolio Reflection
+## CS 360 Mobile App Portfolio Reflection
 
 ## App Overview
 
